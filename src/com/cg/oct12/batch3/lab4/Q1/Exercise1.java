@@ -95,12 +95,12 @@ public class Exercise1 {
 
 	public static void main(String arg[])
 	{
-		Person c1= new Person(1,10000,"Aditi");
+		Person c1= new Person(1,2000,"Smith");
 		System.out.println(c1.accNum);
 		System.out.println(c1.balance);
 		System.out.println(c1.accHolder);
 		
-		Person c2= new Person(2,50000,"Atharva");
+		Person c2= new Person(2,3000,"Kathy");
 		System.out.println(c2.accNum);
 		System.out.println(c2.balance);
 		System.out.println(c2.accHolder);
